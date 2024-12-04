@@ -13,7 +13,7 @@ Required packages:
 - pickle
 
 ### Running Retrieval Experiment Script
-1. Run the main script:
+1. Run the main script inside the experiments folder:
 ```bash
 python retrieval_comparison.py
 ```
